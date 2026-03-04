@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Fran 👋  
 
-<!--
-**Liovic031/Liovic031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Engineering in Computer Science (bacc. ing. comp.)  
+💻 Frontend Developer (Entry Level)  
+📍 Osijek, Croatia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I am a frontend-focused developer with a Bachelor's degree in Computer Science and additional practical training through the Edunova Frontend Development course.
+
+I enjoy creating interactive, responsive interfaces. My focus is on writing clean and efficient code that is easy to maintain and scales well across projects.
+
+Through university projects, personal GitHub work, and the Edunova course, I have strengthened my understanding of layout systems, DOM manipulation, component-based thinking, and frontend fundamentals.
+
+I am currently focused on improving my JavaScript and React skills, mastering CSS practices and working on my final React project for the Frontend Development course.
+
+---
+
+## 🛠 Tech Stack  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🌱 Currently Improving  
+
+- React concepts and component-based architecture 
+- Writing clean, scalable, and maintainable HTML, CSS, and JavaScript
+- Deepening understanding of Git and modern development workflows
+- Responsive and adaptive design systems 
+- Frontend accessibility fundamentals
+- Exploring Vue.js and other JavaScript frameworks
+
+---
+
+## 💼 Career Goal  
+
+To start my career as a Frontend Developer and grow through real-world projects, collaboration, and mentorship.
+
+---
+
+## ⚡ Fun & Interests  
+
+- 🏋️‍♂️ Going to the gym and staying active  
+- ⚽ Playing sports and team games  
+- 💻 Experimenting with new coding projects and frameworks  
+- 🌍 Learning and exploring new technologies  
+- 🎧 Listening to music while coding  
+
+---
+
+## 📫 Contact  
+
+📧 fran.liovic123@gmail.com  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
