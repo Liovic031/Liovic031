@@ -15,7 +15,7 @@ I enjoy creating interactive, responsive interfaces. My focus is on writing clea
 
 Through university projects, personal GitHub work, and the Edunova course, I have strengthened my understanding of layout systems, DOM manipulation, component-based thinking, and frontend fundamentals.
 
-I am currently focused on improving my JavaScript and React skills, mastering CSS practices and working on my final React project for the Frontend Development course.
+I am currently focused on improving my JavaScript and React skills and mastering CSS practices.
 
 ---
 
@@ -47,16 +47,6 @@ I am currently focused on improving my JavaScript and React skills, mastering CS
 ## 💼 Career Goal  
 
 To start my career as a Frontend Developer and grow through real-world projects, collaboration, and mentorship.
-
----
-
-## ⚡ Fun & Interests  
-
-- 🏋️‍♂️ Going to the gym and staying active  
-- ⚽ Playing sports and team games  
-- 💻 Experimenting with new coding projects and frameworks  
-- 🌍 Learning and exploring new technologies  
-- 🎧 Listening to music while coding  
 
 ---
 
