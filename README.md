@@ -3,7 +3,6 @@
 🎓 Bachelor of Engineering in Computer Science (bacc. ing. comp.)  
 💻 Frontend Developer (Entry Level)  
 📍 Osijek, Croatia  
-   https://edunova5.origo.hr
 
 ---
 
